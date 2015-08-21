@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Text Files\TextFilesHomework\11. Prefix test\bin\Debug\_11.Prefix_test.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\11. Prefix test\bin\Debug\_11.Prefix_test.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\11. Prefix test\obj\Debug\_11.Prefix_test.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\11. Prefix test\obj\Debug\_11.Prefix_test.pdb

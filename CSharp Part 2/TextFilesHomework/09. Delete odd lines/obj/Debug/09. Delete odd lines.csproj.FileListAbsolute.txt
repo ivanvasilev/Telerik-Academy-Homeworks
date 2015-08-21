@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Text Files\TextFilesHomework\09. Delete odd lines\bin\Debug\_09.Delete_odd_lines.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\09. Delete odd lines\bin\Debug\_09.Delete_odd_lines.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\09. Delete odd lines\obj\Debug\_09.Delete_odd_lines.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\09. Delete odd lines\obj\Debug\_09.Delete_odd_lines.pdb

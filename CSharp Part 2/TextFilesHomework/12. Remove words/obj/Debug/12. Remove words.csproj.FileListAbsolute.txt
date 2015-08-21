@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Text Files\TextFilesHomework\12. Remove words\bin\Debug\_12.Remove_words.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\12. Remove words\bin\Debug\_12.Remove_words.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\12. Remove words\obj\Debug\_12.Remove_words.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\12. Remove words\obj\Debug\_12.Remove_words.pdb

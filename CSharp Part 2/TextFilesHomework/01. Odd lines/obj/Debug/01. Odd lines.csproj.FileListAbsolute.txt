@@ -1,0 +1,10 @@
+C:\Users\Nikolai\Desktop\Text Files\01. Odd lines\bin\Debug\_01.Odd_lines.exe
+C:\Users\Nikolai\Desktop\Text Files\01. Odd lines\bin\Debug\_01.Odd_lines.pdb
+C:\Users\Nikolai\Desktop\Text Files\01. Odd lines\obj\Debug\01. Odd lines.csprojResolveAssemblyReference.cache
+C:\Users\Nikolai\Desktop\Text Files\01. Odd lines\obj\Debug\_01.Odd_lines.exe
+C:\Users\Nikolai\Desktop\Text Files\01. Odd lines\obj\Debug\_01.Odd_lines.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\01. Odd lines\obj\Debug\_01.Odd_lines.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\01. Odd lines\obj\Debug\_01.Odd_lines.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\01. Odd lines\bin\Debug\_01.Odd_lines.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\01. Odd lines\bin\Debug\_01.Odd_lines.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\01. Odd lines\obj\Debug\01. Odd lines.csprojResolveAssemblyReference.cache

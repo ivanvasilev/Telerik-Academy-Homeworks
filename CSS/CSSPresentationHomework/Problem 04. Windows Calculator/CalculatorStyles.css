@@ -1,0 +1,118 @@
+﻿body {
+    font-size: 14px;
+    font-family: Verdana;
+    color: #223F61;
+}
+
+article > fieldset {
+    width: 70px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    border: 1px solid #8e9daf;
+    border-radius: 3px 3px;
+}
+
+#fieldsets, #mainTable {
+    float: left;
+}
+
+#calculator {
+    width: 450px;
+    border: 1px solid #8e9daf;
+    display: inline-table;
+    background: linear-gradient(#F1F1F1, #DBE6F2 80%);
+}
+
+#menu {
+    border-bottom: 1px solid #8e9daf;
+    background: repeating-linear-gradient(#FEFEFF, #E2E7F6);
+    margin-bottom: 5px;
+    color: black;
+}
+
+#menu nav table tr td:first-letter {
+    text-decoration: underline;
+}
+
+#menu nav table tr td {
+    padding-right: 10px;
+}
+
+#display input, #bits {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    width: 430px;
+}
+
+#display input {
+    text-align: right;
+    height: 50px;
+    font-size: 1.8em;
+    background: repeating-linear-gradient(#E2E7F6, #FEFEFF);
+    border: 1px solid #8e9daf;
+    border-radius: 3px 3px;
+}
+
+#bits {
+    border: 1px solid #8e9daf;
+    font-family: Consolas;
+    font-size: 90%;
+    border-radius: 3px 3px;
+}
+
+#bits tr td {
+    padding: 0 12px 0 12px;
+}
+
+#bits tr:nth-child(even) {
+    color: #808080;
+}
+
+#bits tr:nth-child(even) td:nth-last-child(1) {
+    text-align: right;
+}
+
+article > fieldset > input[type="radio"] {
+    margin: 5px;
+    font-size: 80%;
+}
+
+#mainTable table {
+    width: 100%;
+    height: 100%;
+}
+
+#mainTable table tr td {
+    width: 38px;
+    height: 33px;
+    font-size: 80%;
+    box-shadow: inset 0 0 10px #F8FBFF;
+}
+
+button:disabled {
+    background: none;
+    box-shadow: none;
+}
+
+button:hover:enabled {
+    background: linear-gradient(#FDEEDE 50%, #FBD47E 50%);
+    border-color: #F6D712;
+    box-shadow: inset 0 0 10px #FEFBF8;
+}
+
+.digits, .letters, #equals {
+    background: linear-gradient(#F7FAFE 50%, #E9F0F7 50%);
+    font-size: 1.4em;
+}
+
+button {
+    background: linear-gradient(#F1F1F1 50%, #DBE6F2 60%);
+    border: 1px solid #8e9daf;
+    border-radius: 3px 3px;
+    padding: 1px;
+    width: 100%;
+    height: 100%;
+    font-size: 90%;
+    color: #223F61;
+}

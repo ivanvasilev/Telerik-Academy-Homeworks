@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Text Files\TextFilesHomework\08. Replace whole word\bin\Debug\_08.Replace_whole_word.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\08. Replace whole word\bin\Debug\_08.Replace_whole_word.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\08. Replace whole word\obj\Debug\_08.Replace_whole_word.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\08. Replace whole word\obj\Debug\_08.Replace_whole_word.pdb

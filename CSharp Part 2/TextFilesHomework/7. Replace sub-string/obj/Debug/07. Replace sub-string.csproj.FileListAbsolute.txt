@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Text Files\TextFilesHomework\7. Replace sub-string\bin\Debug\_7.Replace_sub_string.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\7. Replace sub-string\bin\Debug\_7.Replace_sub_string.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\7. Replace sub-string\obj\Debug\_7.Replace_sub_string.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\7. Replace sub-string\obj\Debug\_7.Replace_sub_string.pdb

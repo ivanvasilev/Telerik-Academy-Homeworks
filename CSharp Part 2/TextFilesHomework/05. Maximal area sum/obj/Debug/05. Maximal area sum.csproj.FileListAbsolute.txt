@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Text Files\TextFilesHomework\05. Maximal area sum\bin\Debug\_05.Maximal_area_sum.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\05. Maximal area sum\bin\Debug\_05.Maximal_area_sum.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\05. Maximal area sum\obj\Debug\_05.Maximal_area_sum.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\05. Maximal area sum\obj\Debug\_05.Maximal_area_sum.pdb

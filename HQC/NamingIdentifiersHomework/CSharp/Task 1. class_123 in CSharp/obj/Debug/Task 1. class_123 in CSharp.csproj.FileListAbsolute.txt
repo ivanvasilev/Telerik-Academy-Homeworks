@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 1. class_123 in CSharp\bin\Debug\Task_1.class_123_in_CSharp.exe.config
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 1. class_123 in CSharp\bin\Debug\Task_1.class_123_in_CSharp.exe
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 1. class_123 in CSharp\bin\Debug\Task_1.class_123_in_CSharp.pdb
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 1. class_123 in CSharp\obj\Debug\Task 1. class_123 in CSharp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 1. class_123 in CSharp\obj\Debug\Task_1.class_123_in_CSharp.exe
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 1. class_123 in CSharp\obj\Debug\Task_1.class_123_in_CSharp.pdb
+C:\Users\User\Desktop\NamingIdentifiersHomework\CSharp\Task 1. class_123 in CSharp\bin\Debug\Task_1.class_123_in_CSharp.exe.config
+C:\Users\User\Desktop\NamingIdentifiersHomework\CSharp\Task 1. class_123 in CSharp\obj\Debug\Task_1.class_123_in_CSharp.exe
+C:\Users\User\Desktop\NamingIdentifiersHomework\CSharp\Task 1. class_123 in CSharp\obj\Debug\Task_1.class_123_in_CSharp.pdb

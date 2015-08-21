@@ -1,0 +1,13 @@
+The world’s most popular programming languages are C#, C, C++, Python, Java and JavaScript.
+
+C# - C# is a multi-paradigm high-level programming language which is both Object-Oriented and Component-Oriented. This language is intended to be simple, modern and for general purpose. C# is one of the programming languages designed for the Common Language Infrastructure.
+
+C – C is the first “modern” programming language. Most of the later created languages like C#, C++, Java etc. borrowed directly or indirectly from C. The main differences between C and C# are that C does not support object orriented code, the programmer must tell the program to do everything, while C# is entirely Object-Oriented and has classes. 
+
+C++ - C++ is an extention language of C. Like C# this language is also Object-Oriented, which makes it better than C. The differences between these languages is that C# is a high-level language, while C++ is a low-level language. Also when compiled, C# code is converted into Intermediate language code, while when compiled, C++ code is converted into assembly language code.
+
+Python – Python is a widely used high-level programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code. Unlike C#, Python interpreters are available for installation on many operating systems, allowing Python code execution on a wide variety of systems. Another huge difference is that C# is a compiled language, while Python isn’t.
+
+Java – Java is a functiona lclass-based, object-oriented programming language. From an application developer's perspective, C# and Java are quite similar. Both languages are "Pure" Object-Oriented and they are also Type-Safe languages, also both languages have built-in garbage collection and built-in Unicode Support.The main differencies between these two languages are that C# is more complex than Java and also that Java runs almost on every operating system.
+
+JavaScript – JavaScript is a dynamic computer programming language with first class functions. Both C# and JS are multi-paradigm high-level languages, which are Object-Oriented. The differences between this language and C# is that in JavaScript you don't need to specify the types of the variables when defining, while in C# you need to specify the exact types of the variables. Also C# has a Garbage collector and JS doesn’t.

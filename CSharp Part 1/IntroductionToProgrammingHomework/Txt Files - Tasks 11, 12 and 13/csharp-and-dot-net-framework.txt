@@ -1,0 +1,3 @@
+Difference between C# and .NET Framework
+
+The .NET Framework is an application development framework, developed by Microsoft, which contains numerous libraries containing a range of functionalities. In other words .NET Framework is a collection of classes and these classes are used by some programming language to develop a program. C# is one of those languages . It is a multi-paradigm high-level programming language that is mostly built on the .NET framework. Example – when you use Console.WriteLine that means that you call into the .NET Framework to write something to the output console.

@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Text Files\TextFilesHomework\06. Save sorted names\bin\Debug\_06.Save_sorted_names.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\06. Save sorted names\bin\Debug\_06.Save_sorted_names.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\06. Save sorted names\obj\Debug\_06.Save_sorted_names.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\06. Save sorted names\obj\Debug\_06.Save_sorted_names.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 2. Make_Чуек in CSharp\bin\Debug\Task_2.Make_Чуек_in_CSharp.exe.config
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 2. Make_Чуек in CSharp\bin\Debug\Task_2.Make_Чуек_in_CSharp.exe
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 2. Make_Чуек in CSharp\bin\Debug\Task_2.Make_Чуек_in_CSharp.pdb
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 2. Make_Чуек in CSharp\obj\Debug\Task_2.Make_Чуек_in_CSharp.exe
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 2. Make_Чуек in CSharp\obj\Debug\Task_2.Make_Чуек_in_CSharp.pdb
+C:\Users\User\Desktop\NamingIdentifiersHomework\CSharp\Task 2. Make_Чуек in CSharp\bin\Debug\Task_2.Make_Чуек_in_CSharp.exe.config
+C:\Users\User\Desktop\NamingIdentifiersHomework\CSharp\Task 2. Make_Чуек in CSharp\obj\Debug\Task_2.Make_Чуек_in_CSharp.exe
+C:\Users\User\Desktop\NamingIdentifiersHomework\CSharp\Task 2. Make_Чуек in CSharp\obj\Debug\Task_2.Make_Чуек_in_CSharp.pdb

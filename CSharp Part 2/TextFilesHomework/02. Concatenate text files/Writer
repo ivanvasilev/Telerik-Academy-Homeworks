@@ -1,0 +1,77 @@
+//Problem 2. Concatenate text files
+
+//Write a program that concatenates two text files into another text file.
+
+using System;
+using System.IO;
+class ConcatenateTextFiles
+{
+    static void Main()
+    {
+        Console.WriteLine("This program concatenates two text files into another text file.");
+        StreamWriter writer = new StreamWriter("..\\..\\Writer");
+        using (writer)
+        {
+            StreamReader file1 = new StreamReader("..\\..\\02. Concatenate text files.cs");
+            using (file1)
+            {
+                string file1Reader = file1.ReadLine();
+                while (file1Reader != null)
+                {
+
+                    writer.WriteLine(file1Reader);
+                    file1Reader = file1.ReadLine();
+                }
+
+            }
+
+            StreamReader file2 = new StreamReader("..\\..\\Properties\\AssemblyInfo.cs");
+            using (file2)
+            {
+                string file2Reader = file2.ReadLine();
+                while (file2Reader != null)
+                {
+                    writer.WriteLine(file2Reader);
+                    file2Reader = file2.ReadLine();
+                }
+            }
+        }
+        Console.WriteLine("You can find all results and text files in the folders of the different projects!");
+    }
+}
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+[assembly: AssemblyTitle("02. Concatenate text files")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("02. Concatenate text files")]
+[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+
+// Setting ComVisible to false makes the types in this assembly not visible 
+// to COM components.  If you need to access a type in this assembly from 
+// COM, set the ComVisible attribute to true on that type.
+[assembly: ComVisible(false)]
+
+// The following GUID is for the ID of the typelib if this project is exposed to COM
+[assembly: Guid("c8b61900-749b-4231-be72-9d698d6df1b9")]
+
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Build and Revision Numbers 
+// by using the '*' as shown below:
+// [assembly: AssemblyVersion("1.0.*")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]

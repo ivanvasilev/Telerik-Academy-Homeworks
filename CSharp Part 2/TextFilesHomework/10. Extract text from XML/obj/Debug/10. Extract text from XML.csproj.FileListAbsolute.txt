@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Text Files\TextFilesHomework\10. Extract text from XML\bin\Debug\_10.Extract_text_from_XML.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\10. Extract text from XML\bin\Debug\_10.Extract_text_from_XML.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\10. Extract text from XML\obj\Debug\_10.Extract_text_from_XML.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\10. Extract text from XML\obj\Debug\_10.Extract_text_from_XML.pdb

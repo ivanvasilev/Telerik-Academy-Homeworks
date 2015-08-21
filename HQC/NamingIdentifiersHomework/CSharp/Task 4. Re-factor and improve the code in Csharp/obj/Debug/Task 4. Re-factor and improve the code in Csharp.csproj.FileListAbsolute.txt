@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 4. Re-factor and improve the code in Csharp\bin\Debug\Task_4.Re_factor_and_improve_the_code_in_Csharp.exe.config
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 4. Re-factor and improve the code in Csharp\bin\Debug\Task_4.Re_factor_and_improve_the_code_in_Csharp.exe
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 4. Re-factor and improve the code in Csharp\bin\Debug\Task_4.Re_factor_and_improve_the_code_in_Csharp.pdb
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 4. Re-factor and improve the code in Csharp\obj\Debug\Task_4.Re_factor_and_improve_the_code_in_Csharp.exe
+C:\Users\User\Desktop\NamingIdentifiersHomework\Task 4. Re-factor and improve the code in Csharp\obj\Debug\Task_4.Re_factor_and_improve_the_code_in_Csharp.pdb
+C:\Users\User\Desktop\NamingIdentifiersHomework\CSharp\Task 4. Re-factor and improve the code in Csharp\bin\Debug\Task_4.Re_factor_and_improve_the_code_in_Csharp.exe.config
+C:\Users\User\Desktop\NamingIdentifiersHomework\CSharp\Task 4. Re-factor and improve the code in Csharp\obj\Debug\Task_4.Re_factor_and_improve_the_code_in_Csharp.exe
+C:\Users\User\Desktop\NamingIdentifiersHomework\CSharp\Task 4. Re-factor and improve the code in Csharp\obj\Debug\Task_4.Re_factor_and_improve_the_code_in_Csharp.pdb
+C:\Users\User\Desktop\NamingIdentifiersHomework\CSharp\Task 4. Re-factor and improve the code in Csharp\bin\Debug\Task_4.Re_factor_and_improve_the_code_in_Csharp.exe
+C:\Users\User\Desktop\NamingIdentifiersHomework\CSharp\Task 4. Re-factor and improve the code in Csharp\bin\Debug\Task_4.Re_factor_and_improve_the_code_in_Csharp.pdb
+C:\Users\User\Desktop\NamingIdentifiersHomework\CSharp\Task 4. Re-factor and improve the code in Csharp\obj\Debug\Task 4. Re-factor and improve the code in Csharp.csprojResolveAssemblyReference.cache

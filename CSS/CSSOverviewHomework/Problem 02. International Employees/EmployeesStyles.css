@@ -1,0 +1,51 @@
+﻿body {
+    font-family: Calibri;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    color: white;
+    text-align: left;
+    font-weight: normal;
+}
+
+td , th {
+    width: 150px;
+    padding: 3px 3px;
+    border-left: 1px solid darkgray;
+    border-right: 1px solid darkgray;
+}
+
+tr:nth-child(2n) {
+    background-color: #EDEDDA;
+}
+
+tr:nth-last-child(1) {
+    border-bottom: 1px solid darkgray;
+}
+
+td:nth-last-child(1) , th:nth-last-child(1) {
+    border-right: 1px solid white;
+    width: 100px;
+}
+
+td:nth-child(1) {
+    border-left: 1px solid white;
+}
+
+thead {
+    background-color: #5DBE08;
+}
+
+img {
+    width: 20px;
+    height: 15px;
+}
+
+input[type="checkbox"] {
+    width: 15px;
+    height: 15px;
+}

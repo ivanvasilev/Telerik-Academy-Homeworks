@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\Text Files\TextFilesHomework\03. Line numbers\bin\Debug\_03.Line_numbers.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\03. Line numbers\bin\Debug\_03.Line_numbers.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\03. Line numbers\obj\Debug\_03.Line_numbers.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\03. Line numbers\obj\Debug\_03.Line_numbers.pdb

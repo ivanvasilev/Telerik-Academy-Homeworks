@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Text Files\TextFilesHomework\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.pdb
+C:\Users\User\Desktop\Text Files\TextFilesHomework\02. Concatenate text files\obj\Debug\02. Concatenate text files.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Text Files\TextFilesHomework\02. Concatenate text files\obj\Debug\_02.Concatenate_text_files.exe
+C:\Users\User\Desktop\Text Files\TextFilesHomework\02. Concatenate text files\obj\Debug\_02.Concatenate_text_files.pdb

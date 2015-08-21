@@ -1,0 +1,43 @@
+﻿body{
+    background-color: #eeeeee;
+    font-family: 'Segoe UI';
+    font-size: 14px;
+    font-weight: normal;
+}
+
+h1{
+    font-size: 1.5em;
+    font-weight: lighter;
+}
+
+article{
+    background-color: #fff;
+    border:1px solid #999999;
+    padding: 15px;
+    overflow: auto;
+    width: 400px;
+    margin: 40px 0 30px 0;
+}
+
+p{
+    margin-bottom: 15px;
+
+}
+
+img{
+    float: left;
+    border: 1px solid #999999;
+    width: 135px;
+    height: 86px;
+    margin: 15px;
+}
+
+button.add, button.listen{
+    background-image: url("images/button.png");
+    width: 76px;
+    height: 24px;
+    border: none;
+    color: #ffffff;
+    margin: 5px;
+    float: right;
+}

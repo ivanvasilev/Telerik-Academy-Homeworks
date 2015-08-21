@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Dirty Martini Darts Game</title>
+    <link href="Styles/Styles.css" rel="stylesheet"/>
+    <script type="text/javascript" src="Libraries/q/q.js"></script>
+    <script type="text/javascript" src="Libraries/kineticjs/kinetic.js"></script>
+    <script type="text/javascript" src="Libraries/jQuery/jquery-2.1.4.js"></script>
+    <script type="text/javascript" src="Libraries/raphaeljs/raphael.js"></script>
+    <script src="Libraries/audiojs/audio.min.js"></script>
+    <script>
+        audiojs.events.ready(function () {
+            var as = audiojs.createAll();
+        });
+    </script>
+</head>
+
+<body>
+<div id="menu">
+    <ul id="navigation">
+        <li>
+            <button id="startButton">Start</button>
+        </li>
+        <li>
+            <button id="rulesButton">Rules</button>
+        </li>
+        <li>
+            <button id="creditsButton">Credits</button>
+        </li>
+        <li>
+            <button id="exitButton">Exit</button>
+        </li>
+    </ul>
+</div>
+
+    <div id="container"></div>
+    <div id="endGameScreen">
+        <div id="endMessages">
+            <h1>Congratulations!</h1>
+            <h2><span id="winner-name">Player X</span> has won the game.</h2>
+            <button id="newGame">New game</button>
+            <button id="exit">Exit</button>
+        </div>
+        <img id="fireworks" src="images/fireworks.gif" />
+    </div>
+
+
+    <script src="Scripts/DeterminePoints.js"></script>
+    <script src="Scripts/Aim.js"></script>
+    <script src="Scripts/gameCreator.js"></script>
+    <script src="Scripts/Shooting.js"></script>
+    <script src="Scripts/Menu.js"></script>
+    <script src="Scripts/DrawBoard.js"></script>
+    <script src="Scripts/gameLoop.js"></script>
+    <script src="Scripts/Darts.js"></script>
+    <script src="Scripts/scoreBoard.js"></script>
+</div>
+</body>
+</html>

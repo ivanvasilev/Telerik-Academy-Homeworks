@@ -1,0 +1,3 @@
+C:\Users\Tedko\Desktop\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\User\Desktop\CHECK\Telerik-Academy-Homeworks\HQC\DevelopmentToolsHomework\DeveloptmentTools\T4Templates\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\User\Desktop\CHECK\Telerik-Academy-Homeworks\HQC\DevelopmentToolsHomework\Task 2 - T4 Template\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config

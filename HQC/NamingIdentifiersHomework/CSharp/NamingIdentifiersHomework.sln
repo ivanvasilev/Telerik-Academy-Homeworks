@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1. class_123 in CSharp", "Task 1. class_123 in CSharp\Task 1. class_123 in CSharp.csproj", "{64FEEBB7-52D6-46BC-A80B-76A7F3A42A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2. Make_Чуек in CSharp", "Task 2. Make_Чуек in CSharp\Task 2. Make_Чуек in CSharp.csproj", "{4EFA2E6D-7523-4724-9341-7CD442044D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 4. Re-factor and improve the code in Csharp", "Task 4. Re-factor and improve the code in Csharp\Task 4. Re-factor and improve the code in Csharp.csproj", "{0220EEF9-F31E-4575-93FF-5AC38E991EB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64FEEBB7-52D6-46BC-A80B-76A7F3A42A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FEEBB7-52D6-46BC-A80B-76A7F3A42A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FEEBB7-52D6-46BC-A80B-76A7F3A42A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FEEBB7-52D6-46BC-A80B-76A7F3A42A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EFA2E6D-7523-4724-9341-7CD442044D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFA2E6D-7523-4724-9341-7CD442044D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFA2E6D-7523-4724-9341-7CD442044D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFA2E6D-7523-4724-9341-7CD442044D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0220EEF9-F31E-4575-93FF-5AC38E991EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0220EEF9-F31E-4575-93FF-5AC38E991EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0220EEF9-F31E-4575-93FF-5AC38E991EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0220EEF9-F31E-4575-93FF-5AC38E991EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
